@@ -63,27 +63,7 @@ Build responsive, interactive interfaces using minimal code
 
 This project also improved my understanding of performance optimization and user experience design.
 
-Contact
-
-If you’d like to share feedback, collaborate, or have questions, feel free to reach out:
-
-Email: shayanrajpoot520@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/m-shayan-faisal/
-
-GitHub: https://github.com/shayan520898?tab=repositories
-
-Future Improvements
-
-Add cropping, rotation, and resizing tools
-
-Include more filter options like hue, exposure, and vignette
-
-Implement a history or undo feature
-
-Introduce drag-and-drop canvas editing
-
-Add keyboard shortcuts for faster workflow
+<img width="1067" height="712" alt="Screenshot 2026-04-07 123238" src="https://github.com/user-attachments/assets/2b2cce79-bbee-4a13-b2df-f510ffe9bb29" />
 
 License
 
