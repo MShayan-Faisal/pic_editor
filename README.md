@@ -17,6 +17,8 @@ Technologies Used
 HTML5 – for layout and structure
 CSS3 – for interface styling and responsive design
 JavaScript – for image processing, filter effects, and interactivity
+<img width="1067" height="712" alt="Screenshot 2026-04-07 123238" src="https://github.com/user-attachments/assets/2b2cce79-bbee-4a13-b2df-f510ffe9bb29" />
+
 
 Key Features
 
@@ -63,7 +65,6 @@ Build responsive, interactive interfaces using minimal code
 
 This project also improved my understanding of performance optimization and user experience design.
 
-<img width="1067" height="712" alt="Screenshot 2026-04-07 123238" src="https://github.com/user-attachments/assets/2b2cce79-bbee-4a13-b2df-f510ffe9bb29" />
 
 License
 
